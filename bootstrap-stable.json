@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "81ee02e151d1d418df43018ffed06bbe93f3804a",
+    "buildCommit": "5e9d565efe085c42bc939a1525721e9d69b2a835",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -37,7 +37,7 @@
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "http-api-1.0.16-STABLE.jar": "b5ef46fa17f3c67ad925bcf44dd572f423ff409f1ea9cf3e679ec24353dda89a",
+        "http-api-1.0.16-STABLE.jar": "c61b2e932e622744901691680b245cead25abd6fc0dd81b4650b9caca4314200",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "socket.io-client-1.0.0.jar": "5b048755cef24079e1ec1795f6ed0935422ed887786192811c2008bda0a2caf2",
@@ -59,7 +59,7 @@
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
         "lwjgl-opengl-3.3.1-natives-macos.jar": "711f29972888509262a957f1b3138bfa9b505519d11df6e5763d1c9a3f8b3c5d",
-        "runelite-client-1.0.16-STABLE.jar": "451e1960152c7e86e4f8836a290daa59343188376668589434c32dd45b0408cc",
+        "runelite-client-1.0.16-STABLE.jar": "09715830721c6280a62eb9f1799eda27434a6a36625e66c93bdc18d440d7556e",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -164,25 +164,25 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/Whatis69n/hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
             "size": 129594,
             "name": "runescape-api-1.0.16-STABLE.jar",
             "hash": "6495f83f1771624a845f2795b89da4d6c8919da160b7faf2a5dba3d56e23fab3"
         },
         {
-            "path": "https://raw.githubusercontent.com/Whatis69n/hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
             "size": 1417249,
             "name": "runelite-api-1.0.16-STABLE.jar",
             "hash": "0941b243e2799f1c83826dd23bbb22a38c011ea09891486d9de0fdd7a78b80ae"
         },
         {
-            "path": "https://raw.githubusercontent.com/Whatis69n/hosting/master/stable/http-api-1.0.16-STABLE.jar",
-            "size": 95210,
+            "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/http-api-1.0.16-STABLE.jar",
+            "size": 95211,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "b5ef46fa17f3c67ad925bcf44dd572f423ff409f1ea9cf3e679ec24353dda89a"
+            "hash": "c61b2e932e622744901691680b245cead25abd6fc0dd81b4650b9caca4314200"
         },
         {
-            "path": "https://raw.githubusercontent.com/Whatis69n/hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.16-STABLE.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -585,9 +585,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 11753489,
+            "size": 11753486,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "451e1960152c7e86e4f8836a290daa59343188376668589434c32dd45b0408cc"
+            "hash": "09715830721c6280a62eb9f1799eda27434a6a36625e66c93bdc18d440d7556e"
         }
     ]
 }
