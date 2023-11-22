@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "cc2cbbffbc2d01e997076f52fdd0cc2ca89fa830",
+    "buildCommit": "f45f3edaa094a4302718b35345295a06be76e2b9",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -37,7 +37,7 @@
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-        "http-api-1.0.16-STABLE.jar": "d1300e5ce3dbb96d9aede2b5e4a3754d64dbf0b3ec2faeee01797c95e32e30c6",
+        "http-api-1.0.16-STABLE.jar": "692da967a9a4cf86bb0bb9358bb5cfabdec916deef69e5a3edb1daf5bb4aee5f",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
@@ -178,9 +178,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/http-api-1.0.16-STABLE.jar",
-            "size": 95210,
+            "size": 95211,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "d1300e5ce3dbb96d9aede2b5e4a3754d64dbf0b3ec2faeee01797c95e32e30c6"
+            "hash": "692da967a9a4cf86bb0bb9358bb5cfabdec916deef69e5a3edb1daf5bb4aee5f"
         },
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
