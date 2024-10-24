@@ -37,7 +37,7 @@
         "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-        "runelite-api-1.10.33-SNAPSHOT.jar": "0a40a21b09e835fbd145e3191f6f14a80d6c42afd0b4318362d919614a5eaa09",
+        "runelite-api-1.10.33-SNAPSHOT.jar": "c2854b566d23da044fa8c281a6fe51c3f09cdf92ab94abe4fef6e1fa58399cba",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "okhttp-3.14.9.jar": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
         "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
@@ -58,7 +58,7 @@
         "guice-4.1.0.jar": "9b9df27a5b8c7864112b4137fd92b36c3f1395bfe57be42fedf2f520ead1a93e",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "lwjgl-3.3.2-natives-macos.jar": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
-        "client-1.10.33-SNAPSHOT.jar": "e74f20146d31b7a83b972fb39fcc199c479d7f1c100fbfd2a8a729b9afc67497",
+        "client-1.10.33-SNAPSHOT.jar": "767e18435eb78d396aacfb7a949fdc1ae1a24c4c50e907daf7e489e293bf3a6a",
         "lwjgl-3.3.2-natives-macos-arm64.jar": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
         "http-api-1.2.16.jar": "5209f2bc6ea12267d45a3f3f562968b0688d88df5a7becd3a2a5f590ea025116",
         "flatlaf-3.2.5-rl4.jar": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
@@ -68,7 +68,7 @@
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
         "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-        "jshell-1.10.33-SNAPSHOT.jar": "5f7d6b4faef7a774ec75e2d15ad820bb1220dbe186db2d9f2fe84393261d9224",
+        "jshell-1.10.33-SNAPSHOT.jar": "d1e4eee7e72c0ed82aae72722afb6f6e23217095a4787c4be7e1f096a37aed11",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097"
     },
     "launcherJvm17MacArguments": [
@@ -141,13 +141,13 @@
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/runelite-api-1.10.33-SNAPSHOT.jar",
             "size": 1339324,
             "name": "runelite-api-1.10.33-SNAPSHOT.jar",
-            "hash": "0a40a21b09e835fbd145e3191f6f14a80d6c42afd0b4318362d919614a5eaa09"
+            "hash": "c2854b566d23da044fa8c281a6fe51c3f09cdf92ab94abe4fef6e1fa58399cba"
         },
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/jshell-1.10.33-SNAPSHOT.jar",
             "size": 22947,
             "name": "jshell-1.10.33-SNAPSHOT.jar",
-            "hash": "5f7d6b4faef7a774ec75e2d15ad820bb1220dbe186db2d9f2fe84393261d9224"
+            "hash": "d1e4eee7e72c0ed82aae72722afb6f6e23217095a4787c4be7e1f096a37aed11"
         },
         {
             "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.2.16/http-api-1.2.16.jar",
@@ -421,9 +421,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/Whatis69n/rsps-hosting/master/stable/client-1.10.33-SNAPSHOT.jar",
-            "size": 23010140,
+            "size": 22988861,
             "name": "client-1.10.33-SNAPSHOT.jar",
-            "hash": "e74f20146d31b7a83b972fb39fcc199c479d7f1c100fbfd2a8a729b9afc67497"
+            "hash": "767e18435eb78d396aacfb7a949fdc1ae1a24c4c50e907daf7e489e293bf3a6a"
         }
     ]
 }
